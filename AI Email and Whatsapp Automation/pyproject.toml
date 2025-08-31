@@ -1,0 +1,13 @@
+[project]
+name = "ai-email-and-whatsapp-automation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chainlit>=2.7.2",
+    "ddgs>=9.5.4",
+    "openai-agents>=0.2.9",
+    "pymupdf>=1.26.4",
+    "pywhatkit>=5.4",
+]
